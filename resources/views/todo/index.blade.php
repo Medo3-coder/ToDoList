@@ -42,6 +42,8 @@
               <tr>
 
                 <th scope="row"> {{  $todo->title }}</th>
+                
+                </tr>
 
 
 
